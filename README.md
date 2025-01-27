@@ -49,7 +49,7 @@ This project integrates the power of **Object Detection (OD)** and **Human Activ
 
 1. **Download Data & Models**:  
    Get the required datasets and trained models from [this link](https://drive.google.com/drive/folders/1kbJnAsMOfXh3wHCJhk0ufgQkhKW24cpR?usp=sharing).  
-   📂 Place the files in appropriate directories based on the project structure.
+ 
 
 2. **Clone the Repository**:  
    ```bash
