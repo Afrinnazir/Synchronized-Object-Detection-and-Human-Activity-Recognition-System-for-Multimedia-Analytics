@@ -60,35 +60,3 @@ This project integrates the power of **Object Detection (OD)** and **Human Activ
   ```bash
   pip install -r requirements.txt
 
----
-
-## 🚀 Running the Code
-
-🟢 **To test Object Detection only**:  
-```bash
-python od.py
-
-🟢 **To test Human Activity Recognition only**:  
-```bash
-python har.py
-
-🟢 **To run the integrated system**:
-```bash
-python Integration_NLP.py
-
-## 🌈 Deployment
-
-Currently designed for local execution. Future plans include deploying in real-world scenarios like:  
-- 🔒 **Security Surveillance**  
-- 🏥 **Healthcare Monitoring**  
-- ⚙️ **Industrial Automation**  
-
----
-
-## 🌟 Future Enhancements
-
-- 🎯 **Enhanced Synchronization**: Better real-time fusion of OD and HAR results.  
-- 💡 **Context-Aware NLP**: Use spatial relationships for improved descriptions.  
-- 🌐 **Cloud-Based Deployment**: Scale the system for broader applications.  
-- 🧪 **Field Testing**: Test in real-world scenarios for refinement.
-
