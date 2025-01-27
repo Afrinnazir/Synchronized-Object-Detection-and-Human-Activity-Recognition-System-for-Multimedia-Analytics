@@ -92,5 +92,31 @@ Currently designed for local execution. Future plans include deploying in real-w
 - 🧪 **Field Testing**: Test in real-world scenarios for refinement.
 
 
+---
+
+## 📸 Output Screenshots
+
+### Object Detection Results  
+**Detection 1:**  
+![Object Detection Output 1](screenshots/object_detection1.jpg)  
+
+**Detection 2:**  
+![Object Detection Output 2](screenshots/object_detection2.jpg)  
+
+### Human Activity Recognition Results  
+**Activity 1:**  
+![Human Activity Recognition Output 1](screenshots/human_activity_recognition1.jpg)  
+
+**Activity 2:**  
+![Human Activity Recognition Output 2](screenshots/human_activity_recognition2.jpg)  
+
+### Integrated System Results  
+**Integration 1:**  
+![Integrated System Output 1](screenshots/integrated_output1.jpg)  
+
+**Integration 2:**  
+![Integrated System Output 2](screenshots/integrated_output2.jpg)  
+
+
 
 
