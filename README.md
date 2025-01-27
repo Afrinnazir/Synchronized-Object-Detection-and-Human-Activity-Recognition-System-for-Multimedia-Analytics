@@ -61,17 +61,17 @@ This project integrates the power of **Object Detection (OD)** and **Human Activ
 ---
 ## 🚀 Running the Code
 
-🟢 **To test Object Detection only**:  
+## 🟢 To test Object Detection only:  
     ```bash
     python od.py
-
-🟢 **To test Human Activity Recognition only**:  
+ 
+## 🟢 To test Human Activity Recognition only:  
     ```bash
     python har.py
 
-🟢 **To run the integrated system**:
-    ```bash
-    python Integration_NLP.py
+ ## 🟢 To run the integrated system:
+     ```bash
+     python Integration_NLP.py
 
 ---
 
